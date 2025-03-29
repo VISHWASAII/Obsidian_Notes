@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "8b79717ae324a038",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ed44967496386cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e4fc1ed70204968",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Express Docs/Validation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Validation"
+            }
+          },
+          {
+            "id": "e7855573e4e52c90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Express Docs/Routers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Routers"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c920926e4c7c074",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e0406373bc027f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "422c42fc37513d15",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "986dfaeb75f0054a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#TypeConversion",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a72bd305fd7b01b8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "03c6b7f602fe3d99",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bbbfadcc6215ce1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06c99f6d5b68edc9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Express Docs/Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Notes"
+            }
+          },
+          {
+            "id": "3c606f6c6195a66c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Express Docs/Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Notes"
+            }
+          },
+          {
+            "id": "e69066ccb7e452f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d229aed16368689f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Express Docs/Notes.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Notes"
+            }
+          },
+          {
+            "id": "fe5faf0a9d3fd89f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-projects:Open projects": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "e7855573e4e52c90",
+  "lastOpenFiles": [
+    "Express Docs/images/Pasted image 20250329121810.png",
+    "Express Docs/images/Pasted image 20250329120928.png",
+    "Express Docs/images/Pasted image 20250329120439.png",
+    "Express Docs/Validation.md",
+    "Express Docs/Routers.md",
+    "Express Docs/images/Pasted image 20250329115553.png",
+    "Express Docs/images/Pasted image 20250329115535.png",
+    "Express Docs/images/Pasted image 20250329114608.png",
+    "Express Docs/images/Pasted image 20250329114401.png",
+    "Express Docs/images/Pasted image 20250328184248.png",
+    "Javascript/JavaScript Topics.md",
+    "Javascript/Objects.md",
+    "Javascript/Introduction.md",
+    "Javascript/Functions.md",
+    "Javascript/Arrays.md",
+    "GitHub/GitHub Comments.md",
+    "Stock market/Daily Tally.md",
+    "Pasted image 20250328095519.png",
+    "GitHub/Merge And Conflit.md",
+    "GitHub/Introduction.md",
+    "GitHub/Git Revert And Stash.md",
+    "GitHub/Git Reset.md",
+    "GitHub/Git Rebase.md",
+    "GitHub/Images/Pasted image 20250327225304.png",
+    "GitHub/Images/Pasted image 20250327224808.png",
+    "GitHub/Images",
+    "GitHub/Branching.md",
+    "GitHub",
+    "Express Docs/Middleware.md",
+    "Express Docs/images",
+    "Express Docs/Notes.md",
+    "Stock market",
+    "Interview Preperation/Topics.md",
+    "Programming in Java/Stack.md",
+    "Interview Preperation",
+    "Programming in Java/Inheritance.md",
+    "Programming in Java/Multithreading.md",
+    "Programming in Java/Multithreading",
+    "Quantitative Apptitute/1 - Fraction and Decimal.md",
+    "Quantitative Apptitute/Images",
+    "Quantitative Apptitute",
+    "Programming in Java/Classes.md",
+    "Programming in Java/Strings.md",
+    "Programming in Java/Untitled/Untitled.md",
+    "Programming in Java/imges",
+    "Plan-Sheet",
+    "Untitled.canvas"
+  ]
+}
