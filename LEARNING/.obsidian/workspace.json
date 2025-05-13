@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8ed44967496386cf",
+        "id": "a07dff14e6a65232",
         "type": "tabs",
         "children": [
           {
-            "id": "0e4fc1ed70204968",
+            "id": "fbcfe0fdbd8a3721",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Express Docs/Validation.md",
+                "file": "Spring boot/@Transactional.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Validation"
-            }
-          },
-          {
-            "id": "e7855573e4e52c90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Express Docs/Routers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Routers"
+              "title": "@Transactional"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "03c6b7f602fe3d99",
@@ -109,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Express Docs/Notes.md",
+                "file": "React/06 - React Hooks - UseState.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Notes"
+              "title": "Backlinks for 06 - React Hooks - UseState"
             }
           },
           {
@@ -128,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Express Docs/Notes.md",
+                "file": "React/06 - React Hooks - UseState.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Notes"
+              "title": "Outgoing links from 06 - React Hooks - UseState"
             }
           },
           {
@@ -172,11 +158,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 283.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -191,54 +177,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7855573e4e52c90",
+  "active": "fbcfe0fdbd8a3721",
   "lastOpenFiles": [
-    "Express Docs/images/Pasted image 20250329121810.png",
-    "Express Docs/images/Pasted image 20250329120928.png",
-    "Express Docs/images/Pasted image 20250329120439.png",
-    "Express Docs/Validation.md",
-    "Express Docs/Routers.md",
-    "Express Docs/images/Pasted image 20250329115553.png",
-    "Express Docs/images/Pasted image 20250329115535.png",
-    "Express Docs/images/Pasted image 20250329114608.png",
-    "Express Docs/images/Pasted image 20250329114401.png",
-    "Express Docs/images/Pasted image 20250328184248.png",
-    "Javascript/JavaScript Topics.md",
-    "Javascript/Objects.md",
-    "Javascript/Introduction.md",
-    "Javascript/Functions.md",
-    "Javascript/Arrays.md",
-    "GitHub/GitHub Comments.md",
-    "Stock market/Daily Tally.md",
-    "Pasted image 20250328095519.png",
-    "GitHub/Merge And Conflit.md",
-    "GitHub/Introduction.md",
-    "GitHub/Git Revert And Stash.md",
-    "GitHub/Git Reset.md",
-    "GitHub/Git Rebase.md",
-    "GitHub/Images/Pasted image 20250327225304.png",
-    "GitHub/Images/Pasted image 20250327224808.png",
+    "React/10 - Forms in react.md",
+    "FastApi Docs/13 - Full Authorization Code.md",
+    "FastApi Docs/10 - Jwt.md",
+    "FastApi Docs/09 - OAuth Password.md",
+    "FastApi Docs/11 - Handling User Request.md",
+    "Spring boot/@Transactional.md",
+    "React/09 - Project structure import and export and Optional Chaining.md",
+    "Backend Concepts/03 - Session vs JWT Based Authentication.md",
+    "Backend Concepts/02 - session local cookie Storage.md",
+    "React/Untitled 1.md",
+    "2025-05-11.md",
+    "GitHub/02 - Setup for local Repo.md",
+    "GitHub/01 - Workflow.md",
+    "React/08 -  useEffect Fetching data and Short Circuit and Toggle challenge.md",
+    "React/06 - React Hooks - UseState.md",
+    "React/05 - import and export.md",
+    "React/07 - React Hooks - UseEffect.md",
+    "React/Untitled",
+    "FastApi Docs/08 - Routers.md",
+    "FastApi Docs/07 - Authentication and Authorization.md",
+    "FastApi Docs/06 - SqlLite Configuration And ORM.md",
+    "FastApi Docs/04 - Manual Database Con.md",
+    "FastApi Docs/05 - ORM (Object Relational Mapper).md",
+    "FastApi Docs/02 - Schemas.md",
+    "React/04 - Get By Specific id.md",
+    "React/02 - Props.md",
+    "FastApi Docs/03 - Python Package.md",
+    "GitHub/Images/Pasted image 20250430204038.png",
+    "Spring boot",
+    "React",
+    "GitHub/Images/Pasted image 20250430201641.png",
     "GitHub/Images",
-    "GitHub/Branching.md",
-    "GitHub",
-    "Express Docs/Middleware.md",
-    "Express Docs/images",
-    "Express Docs/Notes.md",
-    "Stock market",
-    "Interview Preperation/Topics.md",
-    "Programming in Java/Stack.md",
-    "Interview Preperation",
-    "Programming in Java/Inheritance.md",
-    "Programming in Java/Multithreading.md",
-    "Programming in Java/Multithreading",
-    "Quantitative Apptitute/1 - Fraction and Decimal.md",
-    "Quantitative Apptitute/Images",
-    "Quantitative Apptitute",
-    "Programming in Java/Classes.md",
-    "Programming in Java/Strings.md",
-    "Programming in Java/Untitled/Untitled.md",
-    "Programming in Java/imges",
-    "Plan-Sheet",
-    "Untitled.canvas"
+    "Backend Concepts",
+    "Docker",
+    "FastApi Docs",
+    "Untitled.canvas",
+    "Express Docs/images/Pasted image 20250407142523.png",
+    "Express Docs/images/Pasted image 20250403140731.png",
+    "Express Docs/images/Pasted image 20250403140142.png",
+    "Javascript/Untitled",
+    "Express Docs/images/Pasted image 20250403140018.png",
+    "Postman/Images",
+    "Postman",
+    "Express Docs/images/Pasted image 20250402131340.png",
+    "Express Docs/images/Pasted image 20250402131036.png",
+    "Express Docs/images/Pasted image 20250402104152.png",
+    "Java/Images/Pasted image 20250401223806.png"
   ]
 }

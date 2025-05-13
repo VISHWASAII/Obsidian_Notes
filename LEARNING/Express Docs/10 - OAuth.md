@@ -1,0 +1,3 @@
+- First we need to register with the Discord and we need to authenticate to the user and next we need to set the endpoint there
+- Then we need to Authenticate
+- 
