@@ -1,0 +1,2 @@
+- it is a security feature that restrict web pages from making request to diff origin unless allowed by the server
+- Diff origin = protocol + domain + port

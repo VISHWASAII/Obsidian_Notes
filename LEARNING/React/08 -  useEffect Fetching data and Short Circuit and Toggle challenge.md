@@ -1,5 +1,18 @@
 - We are resting dom until it gets for single time
 - If we put the useEffect in the circuit function then will render each time according the useState property
+
+### 📦 Real-Life Examples — Where You Can Use `useEffect`
+
+| Scenario                                   | What It Means in Real Life                                                                                     |
+| ------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
+| ✅ **Get data from the internet**           | Imagine you open a page and it _automatically loads_ your profile — that’s `useEffect`.                        |
+| ✅ **Listen when screen size changes**      | You want to show a mobile layout if the screen becomes small — `useEffect` listens for resize.                 |
+| ✅ **Start a timer**                        | Like a countdown in an exam app — `useEffect` can start that when the page loads.                              |
+| ✅ **Clean up mess**                        | When you leave a room, you turn off the lights. Similarly, `useEffect` can clean things when the page changes. |
+| ✅ **When something changes, do something** | Like: “If the user types something, and it changes, check if the name is already taken.”                       |
+| ✅ **Change the title of the tab**          | Like making the browser tab say “1 New Message” — you can update it using `useEffect`.                         |
+| ✅ **Save to local storage**                | If someone types their name, you can store it in the browser for next time.                                    |
+| ✅ **Detect online/offline**                | If the internet goes off, `useEffect` can help you show “You’re offline”.                                      |
 ```
 import React, { useEffect, useState } from "react";
 

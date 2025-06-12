@@ -375,3 +375,13 @@ function App() {
 
 }
 ```
+
+```js
+
+setState((prevState) => {
+
+  return { ...prevState, value: newValue };
+
+});
+
+```

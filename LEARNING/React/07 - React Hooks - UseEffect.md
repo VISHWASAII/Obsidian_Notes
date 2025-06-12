@@ -3,6 +3,29 @@
 - it has two argument -  callback and dependency array
 - Only run on initial render not in re render
 ```
+Interview example
+
+The `useEffect` hook is used to run code in a React component **after it renders.  
+This code can be for side effects like:
+
+- Fetching data from an API
+    
+- Setting a timer
+    
+- Changing the page title
+    
+- Manually updating the DOM
+```
+A **side effect** is any action that affects **something outside** the component, or needs to happen **after rendering**.
+### 💡 Think Like This:
+
+1. React shows the screen first — maybe empty or loading.
+    
+2. Then we say: “Now go get the data from the server.”
+    
+3. That "go get the data" part is a **side effect**, so we put it in `useEffect`.
+
+```
 import {useEffect} from 'react'
 
 // lets consider i have function

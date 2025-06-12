@@ -8,6 +8,7 @@ i need to create npm init for first
 - importing the the port
 - and listeing the port
 ```
+import express from 'express'
 const express = require('express');
 
 const dotenv = require('dotenv').config();

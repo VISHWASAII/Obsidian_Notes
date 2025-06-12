@@ -4,24 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "a07dff14e6a65232",
+        "id": "5e92b67ee318d853",
         "type": "tabs",
         "children": [
           {
-            "id": "fbcfe0fdbd8a3721",
+            "id": "ba9a407b4ca2221a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring boot/@Transactional.md",
+                "file": "Typescript/Typescript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@Transactional"
+              "title": "Typescript"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -53,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TypeConversion",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/06 - React Hooks - UseState.md",
+                "file": "Nginx/Nginx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 06 - React Hooks - UseState"
+              "title": "Outgoing links from Nginx"
             }
           },
           {
@@ -156,6 +157,16 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "3060ded64be22910",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 1
@@ -177,54 +188,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fbcfe0fdbd8a3721",
+  "active": "ba9a407b4ca2221a",
   "lastOpenFiles": [
-    "React/10 - Forms in react.md",
-    "FastApi Docs/13 - Full Authorization Code.md",
-    "FastApi Docs/10 - Jwt.md",
-    "FastApi Docs/09 - OAuth Password.md",
-    "FastApi Docs/11 - Handling User Request.md",
-    "Spring boot/@Transactional.md",
-    "React/09 - Project structure import and export and Optional Chaining.md",
-    "Backend Concepts/03 - Session vs JWT Based Authentication.md",
-    "Backend Concepts/02 - session local cookie Storage.md",
-    "React/Untitled 1.md",
-    "2025-05-11.md",
-    "GitHub/02 - Setup for local Repo.md",
-    "GitHub/01 - Workflow.md",
-    "React/08 -  useEffect Fetching data and Short Circuit and Toggle challenge.md",
-    "React/06 - React Hooks - UseState.md",
-    "React/05 - import and export.md",
-    "React/07 - React Hooks - UseEffect.md",
-    "React/Untitled",
-    "FastApi Docs/08 - Routers.md",
-    "FastApi Docs/07 - Authentication and Authorization.md",
-    "FastApi Docs/06 - SqlLite Configuration And ORM.md",
-    "FastApi Docs/04 - Manual Database Con.md",
-    "FastApi Docs/05 - ORM (Object Relational Mapper).md",
+    "React/Images/Pasted image 20250610123707.png",
+    "Typescript/Typescript.md",
+    "Typescript",
+    "React/Images",
+    "React/20 - React Redux.md",
+    "React/19 - React Query.md",
+    "React/18  - Axios.md",
     "FastApi Docs/02 - Schemas.md",
-    "React/04 - Get By Specific id.md",
-    "React/02 - Props.md",
-    "FastApi Docs/03 - Python Package.md",
-    "GitHub/Images/Pasted image 20250430204038.png",
+    "Docker/01 - Creating image and containers.md",
+    "Backend Concepts/05 - Cross site scripting (xss).md",
+    "Backend Concepts/04 -  Cross site request forgery (CSRF).md",
+    "Backend Concepts/03 - Session vs JWT Based Authentication.md",
+    "Backend Concepts/01 - Http Headers.md",
+    "Backend Concepts/02 - session local cookie Storage.md",
+    "Backend Concepts/06 - cross origin resource sharing.md",
+    "Interview/Time Table for interview.md",
+    "Spring boot/Java Persistence API - JDBC.md",
+    "Spring boot/11 - interceptors and filters.md",
+    "React/08 -  useEffect Fetching data and Short Circuit and Toggle challenge.md",
+    "React/09 - Truthy and falsy Project structure import and export and Optional Chaining.md",
+    "React/07 - React Hooks - UseEffect.md",
+    "React/Interview questions.md",
+    "React/06 - React Hooks - UseState.md",
+    "Docker/03 - Docker Volumes And managing data.md",
+    "Spring boot/Images/Pasted image 20250604125833.png",
+    "Spring boot/Images/Pasted image 20250604115855.png",
+    "Spring boot/06 - Dynamic bean initialization.md",
+    "Spring boot/07 - profile in spring boot.md",
+    "Spring boot/09 - @Transactional.md",
+    "Spring boot/08 - Aspect oriented programming.md",
+    "Spring boot/Images/Pasted image 20250603121540.png",
+    "Spring boot/Images/Pasted image 20250602115313.png",
+    "Nginx/Images/Pasted image 20250528202355.png",
+    "Nginx/Images",
+    "Nginx/Images/Pasted image 20250601134506.png",
+    "Nginx/Images/Pasted image 20250601134503.png",
+    "Nginx/Images/Pasted image 20250601133315.png",
+    "Nginx/Images/Pasted image 20250528202735.png",
+    "Nginx",
+    "Interview",
+    "Java/Images",
+    "Spring boot/Images",
     "Spring boot",
     "React",
-    "GitHub/Images/Pasted image 20250430201641.png",
     "GitHub/Images",
-    "Backend Concepts",
-    "Docker",
-    "FastApi Docs",
-    "Untitled.canvas",
-    "Express Docs/images/Pasted image 20250407142523.png",
-    "Express Docs/images/Pasted image 20250403140731.png",
-    "Express Docs/images/Pasted image 20250403140142.png",
-    "Javascript/Untitled",
-    "Express Docs/images/Pasted image 20250403140018.png",
-    "Postman/Images",
-    "Postman",
-    "Express Docs/images/Pasted image 20250402131340.png",
-    "Express Docs/images/Pasted image 20250402131036.png",
-    "Express Docs/images/Pasted image 20250402104152.png",
-    "Java/Images/Pasted image 20250401223806.png"
+    "Untitled.canvas"
   ]
 }
